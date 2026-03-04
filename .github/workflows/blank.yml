@@ -17,10 +17,13 @@ jobs:
           node-version: 20
           cache: npm
 
-      - run: npm ci
-      - run: npm run lint --if-present
-      - run: npm run build
-      - name: Run a multi-line script
-        run: |
+      - name: Install
+        run: npm ci
+
+      - name: Lint (optional)
+        run: npm run lint --if-present
+
+      - name: Build
+        run: npm run build
           echo Add other actions to build,
           echo test, and deploy your project.
