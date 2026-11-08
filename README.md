@@ -1,13 +1,18 @@
-# Achraf Ali Nazha
+# AchrafNazha
+# 👋 Hi, I'm Achraf
 
-I build web projects with React and Next.js, from responsive interfaces to applications backed by Node.js and MySQL. My public work includes a personal portfolio, a university travel application, and an experiment in face recognition.
+## 🌐 Website / Web Projects (Next.js, React, Full-Stack)
+- **auralis** — AI-powered music discovery UI  
+- **zip-manifest-dashboard** — ZIP file inspector  
+- **ecom-suite-website** — E-commerce admin dashboard  
+- **fitness-fullstack** — Fitness coaching dashboard  
+- **campusconnect-social** — Social network  
 
-## Selected projects
+## 🤖 AI Projects (Machine Learning)
+- **AI_face_Attendance** — Face recognition attendance system  
 
-| Project | What to look at |
-| --- | --- |
-| [Achraf Portfolio](https://github.com/Acharfnazha/Achraf-portfolio) | Responsive portfolio with project and certification sections, built with Next.js, React, Tailwind CSS, and Framer Motion. |
-| [EasyTrip](https://github.com/Acharfnazha/EasyTrip) | University travel application with searchable hotel and chalet listings, user accounts, and a three-tier Express and MySQL backend. |
-| [AI Face Attendance](https://github.com/Acharfnazha/AI_face_Attendance) | A face recognition attendance project. |
+## ⚙️ C++ & Systems (Low-Level / Backend)
+- **charityhub_-fix-all-security-issues** — Charity donation management (C++)  
+- **Console-Based-Donation-Management-System** — C++ donation system  
 
-[Browse my public repositories](https://github.com/Acharfnazha?tab=repositories)
+## 📌 Featured
